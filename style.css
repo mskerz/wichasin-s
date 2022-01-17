@@ -53,6 +53,14 @@ h1{
     height: 20px;
     padding: 5rem;
 }
-
+.warning-2{
+    font-size: 2em;
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(52, 120, 255);
+    font-weight: bold;
+    height: 17px;
+    padding: 5rem;
+}
   
    
