@@ -1,10 +1,4 @@
-#header{
-    box-sizing:  border-box;
-    height: 70px;
-    padding: 1rem;
-    display: flex;
-    align-items: center;
-}
+
 body,ul{
     margin: 0px;
     padding: 0px;
@@ -15,9 +9,30 @@ a{
     font-family: sans-serif;
 }
 a:hover{
-    background:rgba(0,0,0,.05);
+    background:rgba(0, 0, 0, .05);
+    
 }
 #logo{
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight:bold;
+}
+#header{
+    height: 50px;
+    padding: 1rem;
+    display: flex;
+    text-align: center;
+    justify-content:space-between ;
+    background: rgb(213, 253, 255);
+    width: 100%;
+}
+#menu{
+    display: flex;
+    list-style: none;
+    gap: .5rem;
+    
+}
+#menu a{
+    display: block;
+    margin-right: 1rem;
+    padding: .5rem;
 }
