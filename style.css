@@ -22,8 +22,9 @@ a:hover{
     display: flex;
     text-align: center;
     justify-content:space-between ;
-    background: rgb(213, 253, 255);
+    background: rgb(224, 252, 253);
     width: 100%;
+    margin-bottom: 20px;
 }
 #menu{
     display: flex;
@@ -34,5 +35,24 @@ a:hover{
 #menu a{
     display: block;
     margin-right: 1rem;
-    padding: .5rem;
+    padding: .6rem;
 }
+.head{
+    font-family: sans-serif;
+}
+h1{
+    text-align: left;
+    font-size: medium;
+}
+.warning{
+    font-size: 2em;
+    text-align: center;
+    font-family: sans-serif;
+    color: blueviolet;
+    font-weight: bold;
+    height: 20px;
+    padding: 5rem;
+}
+
+  
+   
