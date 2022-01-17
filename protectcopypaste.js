@@ -1,5 +1,5 @@
 
-var message="ใส่ข้อความเตือนเมื่อมีการ Copy";
+var message="ตรวจพบการคลิกขวา";
 
 function clickIE4(){
 if (event.button==2){
