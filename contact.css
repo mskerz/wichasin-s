@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: new-font;
+    src: url(benjamin.ttf);
+}
+.h1{
+    font-family: new-font;
+    text-align: center;
+}
+.img{
+    align-items: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+  }
+  .margin-padding-top{
+      margin: 5em;
+      padding: 4em;
+  }
+  .color{
+      background-color: azure;
+  }
