@@ -4,17 +4,19 @@ body,ul{
     padding: 0px;
 }
 a{
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-family: sans-serif;
 }
 a:hover{
-    background:rgba(0, 0, 0, .05);
+    background:rgba(0, 62, 138, 0.83);
+    padding: 2px;
     
 }
 #logo{
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight:bold;
+    
 }
 #header{
     height: 50px;
@@ -22,20 +24,23 @@ a:hover{
     display: flex;
     text-align: center;
     justify-content:space-between ;
-    background: rgb(224, 252, 253);
+    background: rgb(18, 19, 19);
     width: 100%;
     margin-bottom: 20px;
 }
 #menu{
     display: flex;
     list-style: none;
-    gap: .5rem;
+    gap: 1rem;
     
 }
 #menu a{
     display: block;
-    margin-right: 1rem;
-    padding: .6rem;
+    margin-right: 1.5rem;
+    padding: 1rem;
+}
+#link:hover{
+    padding: 2px;
 }
 .head{
     font-family: sans-serif;
