@@ -1,0 +1,28 @@
+#line-1{
+    padding-bottom: 5em;
+    padding-left: 2em;
+    
+}
+.margin-border{
+    margin: 50px;
+    margin-bottom: 20px;
+    background: rgb(143, 212, 255);
+}
+.head{
+    font-size: 1.5em;
+    font-family: sans-serif;
+    padding: 2rem;
+}
+.font-thai,#font-thai{
+    font-family: 'Prompt', sans-serif;font-weight: bold;
+}
+body{
+    background: rgb(190, 255, 255);
+}
+.img-locate{
+    padding-left: 6em;
+    padding-bottom: 3em;
+    width: 50%;
+    border: 5px black;
+}
+ 
