@@ -9,7 +9,7 @@ a{
     font-family: sans-serif;
 }
 a:hover{
-    background:rgba(0, 62, 138, 0.83);
+    background:rgba(186, 186, 186, 0.83);
     padding: 2px;
     
 }
@@ -42,9 +42,7 @@ a:hover{
 #link:hover{
     padding: 2px;
 }
-.head{
-    font-family: sans-serif;
-}
+
 h1{
     text-align: left;
     font-size: medium;
