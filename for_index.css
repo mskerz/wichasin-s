@@ -1,0 +1,10 @@
+.margin-background{
+    margin: 2em;
+    background: rgba(184, 219, 255, 0.891);
+}
+#font-thai{
+    font-family: 'Prompt', sans-serif;font-weight: bold;
+}
+.img-align{
+    margin-left: 32em;
+}
